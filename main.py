@@ -14,7 +14,7 @@ prefix = "?" #your prefix
 #use the .env feature to hide your token
 
 keep_alive()
-token = "ODE3MzE4OTE2ODQ5NTMyOTY4.YclZfA.OpQ9LXYedOXnWR8OD72XGmzGMD4"
+token = ''
 #---------------#
 
 bot = commands.Bot(command_prefix=prefix,
